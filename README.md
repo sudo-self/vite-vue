@@ -1,4 +1,4 @@
-# Vue-Vite Typescipt
+# <a href="https://gctrhs-5173.csb.app/">Vue-Vite Typescipt</a> <-----try me
 open terminal<br>
 git clone https://github.com/sudo-self/vite-vue.git<br>
 cd vite-vue<br>
